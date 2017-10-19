@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8 (1)" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://C:/LWJGL" />
+          <root url="file://C:/LWJGL" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://C:/LWJGL" />
+        </NATIVE>
+        <SOURCES>
+          <root url="file://C:/LWJGL" />
+        </SOURCES>
+        <jarDirectory url="file://C:/LWJGL" recursive="false" />
+        <jarDirectory url="file://C:/LWJGL" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
